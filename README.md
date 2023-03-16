@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Full-Stack Web Development through Leon Noel's #100Dev's Coding Bootcamp!
+- 📫 How to reach me: bus.wujia1@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I used to make YouTube videos and reached over 4,000 subscribers
+
 <!--
 **officialjaywu/officialjaywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
